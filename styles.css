@@ -1,0 +1,45 @@
+*{
+    margin: 0; padding: 0; box-sizing: border-box;
+}
+
+:root{
+    --RED : #f85d5d;
+    --GREEN : #77f377;
+    --ORANGE : #ffad15ee;
+    --BLUE : #a200ff;
+    
+}
+
+.alerts{
+    width:auto;
+    height: auto;
+    padding: 8px;
+    border-radius: 5px;
+  
+
+
+}
+h2{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.alerts-success{
+    display: inline-block;
+    background-color: var(--GREEN);
+    margin: 4px;
+    height: 2rem;
+    align-content: center;
+    padding: 5px;
+    border-radius: 5px;
+    color: green;
+    border: 1px solid forestgreen;
+    font-weight: 600;
+    font-size: 18px;
+
+
+
+}
+.alerts-info{
+    
+}
