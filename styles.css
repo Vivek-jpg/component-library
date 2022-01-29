@@ -21,13 +21,16 @@
 
 
 }
+
+
+
 h2{ 
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .alerts-success{
-   
+    
     background-color: var(--GREEN);
     margin: 4px;
     height: 2rem;
@@ -38,6 +41,7 @@ h2{
     border: 1px solid forestgreen;
     font-weight: 600;
     font-size: 18px;
+    
 
 
 
@@ -144,4 +148,19 @@ h2{
 .btn--primary1{
     background-color: wheat;
     border: 2px solid orange;
+}
+/*float btn*/
+.btn--float{
+    background-color: rgba(255, 230, 0, 0.664);
+    border-radius: 27px;
+    width: 48px;
+    height: 48px;
+    font-size: 20px;
+    color: rgb(36, 35, 36);
+    border: none;
+    position: fixed;
+    bottom: 20px;
+    right: 40px;
+    box-shadow: 2px 2px 3px #999;
+    
 }
