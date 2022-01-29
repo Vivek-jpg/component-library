@@ -80,3 +80,13 @@ h2{
     font-weight: 600;
     font-size: 18px;
 }
+/*buttons css*/
+.btns{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+    padding: 5px;
+}
+.btn {
+    
+}
