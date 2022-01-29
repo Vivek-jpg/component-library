@@ -121,3 +121,27 @@ h2{
     
 }
 /*button varient*/
+.btn--info1{
+    background-color: orangered;
+    color: white;
+    border-radius: 27px;
+}
+.btn--success1{
+   background-color: whitesmoke;
+    color: rgb(44, 44, 44);
+}
+.btn--warning1{
+    background-color: wheat;
+    color: rgb(88, 88, 88);
+}
+.btn--danger1{
+    background-color: var(--RED);
+    color: white;
+    border: 1px solid red;
+
+    
+}
+.btn--primary1{
+    background-color: wheat;
+    border: 2px solid orange;
+}
