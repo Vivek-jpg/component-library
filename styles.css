@@ -6,7 +6,7 @@
     --RED : #f39494;
     --GREEN : #77f377a1;
     --ORANGE : #ffa600b6;
-    --BLUE : #a200ff88;
+    --BLUE : #00ffff88;
     
 }
 body{
@@ -31,6 +31,9 @@ h2{
     display: flex;
     justify-content: center;
     align-items: center;
+    font-weight: 600;
+    color: rgb(37, 37, 37);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .alerts-success{
     
@@ -183,7 +186,7 @@ img{
     width: 60px;
     height: 60px;
     border-radius: 30px;
-    box-shadow: 2px 2px 1px #999;
+    
 }
 .avatar{
     display: flex;
