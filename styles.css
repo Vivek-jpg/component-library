@@ -304,7 +304,7 @@ input{
     
 }
 /*badge*/
-.offonline-mode{
+.online-mode{
     width: 16px;
     height: 16px;
     border-radius: 10px;
@@ -312,6 +312,11 @@ input{
     position: relative;
     bottom: -80px;
     right: 40px;
-    border: 2px solid wheat;
+    border: 2px solid rgb(255, 255, 255);
 }
-
+.online{
+    background-color: green;
+}
+.dnd{
+    background-color: rgb(119, 119, 119);
+}
