@@ -303,4 +303,15 @@ input{
    
     
 }
+/*badge*/
+.offonline-mode{
+    width: 16px;
+    height: 16px;
+    border-radius: 10px;
+    background-color: red;
+    position: relative;
+    bottom: -80px;
+    right: 40px;
+    border: 2px solid wheat;
+}
 
