@@ -7,10 +7,11 @@
     --GREEN : #77f377a1;
     --ORANGE : #ffa600b6;
     --BLUE : #00ffff88;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
 }
 body{
-    background-color: rgb(235, 235, 235);
+    background-color: #f0f0f0;
 }
 
 .alerts{
@@ -33,7 +34,7 @@ h2{
     align-items: center;
     font-weight: 600;
     color: rgb(37, 37, 37);
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
 }
 .alerts-success{
     
@@ -228,8 +229,9 @@ border-radius:40px
 span{
     width: 40px;
     height: 40px;
-    background-color: rgba(255, 197, 8, 0.808);
+    background-color: rgb(255, 0, 0);
     border-radius:40px;
     text-align: center;
-    padding:4px
+    padding:4px;
+    color:rgb(252, 252, 252);
 }
