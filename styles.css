@@ -452,7 +452,7 @@ li{
     margin: 1rem;
 
 }
-.design{
+.design-success{
     width: 2%;
     height: auto;
    background-color: var(--GREEN);
@@ -461,6 +461,16 @@ li{
 .toast{
     display: flex;
     background-color: rgba(226, 255, 168, 0.459);
+}
+.design-dismiss{
+    width: 2%;
+    height: auto;
+    background-color: var(--RED);
+}
+.design-warning{
+    width: 2%;
+    height: auto;
+    background-color: rgba(255, 255, 57, 0.781);
 }
 /*card-component*/
 .rs-card-img{
@@ -513,14 +523,26 @@ card-icon{
     margin: 10px auto;
     border-radius: 5px;
     padding: 5px;
-    border: .1px solid rgb(228, 228, 228);
+    border: .1px solid rgb(235, 235, 235);
 }
 .text-area-btn{
     margin: 1rem;
     border: none;
-    padding: 5px;
+    padding:10px;
     background-color: var(--RED);
     border-radius: 5px;
+    display: flex;
+    font-size: 18px;
+    align-items: center;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+   margin: 10px auto;
 
 
 }
+.fa-paper-plane{
+    font-size: 16px;
+    color: white;
+    
+}
+/*  vscode://vscode.github-authentication/did-authenticate?windowid=1&code=64758a832bd8e9ffad42&state=0a9d6753-87c8-4494-9691-41a2d0033221*/
