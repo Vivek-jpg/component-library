@@ -471,6 +471,7 @@ li{
 }
 .card-md-img{
     display: flex;
+    flex-wrap: wrap;
 
 }
 .avatar-header-card{
@@ -483,6 +484,7 @@ li{
     border-radius: 8px;
     border:.1px solid rgb(224, 224, 224);
     margin-top: 3rem;
+   
     
 
 }
