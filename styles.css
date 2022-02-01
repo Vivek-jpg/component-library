@@ -469,3 +469,40 @@ li{
 .image{
     border-radius: 4px;
 }
+.card-md-img{
+    display: flex;
+
+}
+.avatar-header-card{
+    width: 40%;
+    height: auto;
+    display: flex;
+    margin: 10px auto;
+    background-color: rgb(250, 250, 250);
+    flex-wrap: wrap;
+    border-radius: 8px;
+    border:.1px solid rgb(224, 224, 224);
+    margin-top: 3rem;
+    
+
+}
+.card-heading{
+    margin: 1rem;
+}
+.card-para{
+    margin-top: 5px;
+    background-color: whitesmoke;
+    padding: 4px;
+    border-radius: 8px;
+}
+.heading1{
+    color: var(--RED);
+}
+card-icon{
+    margin: .3rem;
+  
+
+}
+.fas{
+    color: rgba(24, 173, 4, 0.945);
+}
