@@ -378,39 +378,3 @@ li{
     box-shadow: 1px 1px 1px .5px rgb(224, 224, 224) 
 }
 /*navigation*/
-.logo-img{
-    
-    width: 3rem;
-    height: 3rem;
-    margin: .5rem;
-}
-.logo{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 20px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-weight: 600;
-    color: rgb(39, 39, 39);
-    
-}
-
-.nav-text{
-    display: flex;
-    margin: 5px;
-    justify-content: center;
-    align-items: center;
-    font-size: 18px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-weight: 600;
-    color: rgb(39, 39, 39);
-    
-
-}
-.home{
-    margin: 5px;
-}
-.nav-bar{
-    display: flex;
-    align-content: space-between;
-}
