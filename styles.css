@@ -508,3 +508,19 @@ card-icon{
 .fas{
     color: rgba(24, 173, 4, 0.945);
 }
+/*text area*/
+.area{
+    margin: 10px auto;
+    border-radius: 5px;
+    padding: 5px;
+    border: .1px solid rgb(228, 228, 228);
+}
+.text-area-btn{
+    margin: 1rem;
+    border: none;
+    padding: 5px;
+    background-color: var(--RED);
+    border-radius: 5px;
+
+
+}
