@@ -438,13 +438,15 @@ li{
 /*toast*/
 .toast-text{
     margin: 1rem;
+
 }
 .design{
-    width: 10%px;
+    width: 2%;
     height: auto;
-    border-color: var(--GREEN);
+   background-color: var(--GREEN);
 
 }
 .toast{
     display: flex;
+    background-color: rgba(226, 255, 168, 0.459);
 }
